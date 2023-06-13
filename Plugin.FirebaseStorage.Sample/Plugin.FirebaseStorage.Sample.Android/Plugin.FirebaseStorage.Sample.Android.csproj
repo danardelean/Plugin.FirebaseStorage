@@ -100,7 +100,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Plugin.FirebaseStorage.Sample\Plugin.FirebaseStorage.Sample.csproj">
-      <Project>{C408D942-764A-4C00-A038-8C69B5A6224E}</Project>
+      <Project>{8FD6E598-59DE-4826-AD52-6716282F7FAF}</Project>
       <Name>Plugin.FirebaseStorage.Sample</Name>
     </ProjectReference>
     <ProjectReference Include="..\..\Plugin.FirebaseStorage\Plugin.FirebaseStorage.csproj">
